@@ -1,0 +1,2 @@
+#!/bin/bash
+ls {/etc/hosts,/etc/passwd}
